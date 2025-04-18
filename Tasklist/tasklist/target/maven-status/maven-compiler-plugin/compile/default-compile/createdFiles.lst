@@ -1,0 +1,3 @@
+br\edu\fateccotia\tasklist\controller\TaskController.class
+br\edu\fateccotia\tasklist\TasklistApplication.class
+br\edu\fateccotia\tasklist\model\Task.class
